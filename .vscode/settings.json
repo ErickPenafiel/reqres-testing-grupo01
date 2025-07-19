@@ -1,0 +1,6 @@
+{
+    "karateRunner.karateRunner.default": "APITest.java",
+    "karateRunner.tests.toTargetByGlob": "**/src/test/**/*.feature",
+    "karateRunner.tests.hideIgnored": true,
+    "karateRunner.tests.activityBarDisplayType": "Tree"
+}
