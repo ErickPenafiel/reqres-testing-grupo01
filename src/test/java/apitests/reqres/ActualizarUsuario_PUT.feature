@@ -1,4 +1,4 @@
-Feature: Actualizar usuario con PUT en ReqRes - datos manuales con apiKey explícito
+Feature: Actualizar usuario con PUT
 
 Scenario Outline: Actualizar un usuario con datos manuales
   Given url 'https://reqres.in/api'
