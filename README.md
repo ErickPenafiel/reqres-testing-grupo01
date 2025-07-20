@@ -52,3 +52,15 @@ El stack de tecnología para este proyecto es el siguiente:
 - Maven
 - Editor como IntelliJ IDEA, VS Code, o cualquier IDE con soporte para Maven
 
+## 📋 Qué pasos se deben seguir hasta tener corriendo las pruebas automatizadas:
+
+- Clona el repositorio en tu equipo local usando el siguiente comando: git clone https://github.com/ErickPenafiel/reqres-testing-grupo01
+- Abre el proyecto clonado en un editor de texto, por ejemplo, Visual Studio Code.
+- Instala las siguientes extensiones en tu editor para facilitar la edición y ejecución de pruebas:
+   - Cucumber (soporte para archivos Gherkin)
+   - Karate Runner
+   - Karate Syntax
+- Dentro de Visual Studio Code, ubica en la barra lateral izquierda el ícono de Karate Runner.
+- Desde esta sección, selecciona y ejecuta los endpoints o escenarios que deseas correr de este repositorio.
+
+
